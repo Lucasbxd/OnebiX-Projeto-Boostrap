@@ -2,7 +2,7 @@
 
 <p align="center" dir="auto">
   <img src="https://img.shields.io/badge/status-concluído-sucess">
-  <img src="https://img.shields.io/github/repo-size/Lucasbxd/OnebiX-Projeto-Boostrap">
+  <img src="https://img.shields.io/github/repo-size/Lucasbxd/OnebitX">
 </p>
 
 <p align="center" dir="auto">Este projeto tem o foco de criar um site que tem a aparência semelhante ao site da spaceX, com animações, tabelas e imagens de fundo.</p>
@@ -35,10 +35,10 @@
 
 ```bash
 # clone este repositório
-$ git clone <https://github.com/Lucasbxd/OnebiX-Projeto-Boostrap>
+$ git clone <https://github.com/Lucasbxd/OnebitX>
 
 # acesse o repositório
-$ cd OnebiX-Projeto-Boostrap
+$ cd OnebiX
 
 # Instale as dependências
 $ yarn install
