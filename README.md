@@ -16,7 +16,7 @@
 
 <img src="./github/Animacao.gif">
 
-<p align="center" dir="auto""><a taget="blank" href="http://onebitx-lucasbxd.netlify.app/index.html" >Clique aqui para abrir o site</a><p>
+<p align="center" dir="auto"><a taget="blank" href="http://onebitx-lucasbxd.netlify.app/index.html" >Clique aqui para abrir o site</a><p>
 
 <h2 id="sobre">📍 Sobre</h2>
 <p>Tem o objetivo de treinar posicionamento (flexbox) e responsividade com o CSS, a organização das pastas de estilo com SASS, a utilização das ferramentas fornecidas pelo boostrap como: carrossel, navbar, posicionamento e etc.</p>
